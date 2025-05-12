@@ -2,6 +2,9 @@
 
 This project is a prototype for an AI-powered predictive monitoring system designed to enhance safety in underground mining environments by forecasting hazardous conditions and detecting anomalies in real time.
 
+![Predictive Monitoring System for Underground Mines](https://github.com/user-attachments/assets/257661a0-79ff-456a-b6ab-b9dc541855a0)
+
+
 ---
 
 ## 📂 Project Structure
