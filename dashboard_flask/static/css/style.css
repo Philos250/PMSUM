@@ -1,0 +1,59 @@
+/* File: /dashboard_flask/static/css/style.css */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f6f8;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  color: #0c5460;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.metrics {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.metric-box {
+  background-color: white;
+  border: 1px solid #dee2e6;
+  border-radius: 10px;
+  padding: 20px;
+  width: 200px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin: 10px;
+}
+
+.metric-title {
+  font-size: 1.1rem;
+  color: #495057;
+  margin-bottom: 10px;
+}
+
+.metric-value {
+  font-size: 2rem;
+  color: #0c5460;
+  font-weight: bold;
+}
+
+.metric-icon {
+  font-size: 1.5rem;
+  color: #138160;
+  margin-bottom: 5px;
+}
+
+.table-danger {
+  background-color: #f8d7da !important;
+  color: #721c24;
+}
+
+.table-wrapper {
+  padding: 0 20px 40px 20px;
+}
