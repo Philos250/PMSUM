@@ -106,3 +106,4 @@ pip install flask numpy pandas scikit-learn matplotlib seaborn tensorflow stream
 ## 📩 Contact
 **Author:** HABIMANA Jean de Dieu  
 **Email:** sagahutugerard11@gmail.com
+**Phone:** +250780271726
