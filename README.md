@@ -4,6 +4,11 @@ This project is a prototype for an AI-powered predictive monitoring system desig
 
 ![Predictive Monitoring System for Underground Mines](https://github.com/user-attachments/assets/257661a0-79ff-456a-b6ab-b9dc541855a0)
 
+<img width="1512" alt="Screenshot 2025-05-13 at 11 05 25" src="https://github.com/user-attachments/assets/96304985-c4a6-4531-9ff6-b0cd792b2d65" />
+
+<img width="1512" alt="Screenshot 2025-05-13 at 11 05 43" src="https://github.com/user-attachments/assets/b2818b58-3cf7-4a72-b41a-180c417b0795" />
+
+<img width="1512" alt="Screenshot 2025-05-13 at 11 06 16" src="https://github.com/user-attachments/assets/3b430817-6a6b-4a68-bdbc-e9fb367bec17" />
 
 ---
 
@@ -100,4 +105,4 @@ pip install flask numpy pandas scikit-learn matplotlib seaborn tensorflow stream
 
 ## 📩 Contact
 **Author:** HABIMANA Jean de Dieu  
-**Email:** jeandedh@andrew.cmu.edu
+**Email:** sagahutugerard11@gmail.com
